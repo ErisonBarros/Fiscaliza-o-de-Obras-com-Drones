@@ -38,7 +38,7 @@ O curso está dividido em **4 módulos**:
 
 3. **Processamento e Análise dos Dados** (6h)
    - Fotogrametria digital com drones
-   - Softwares: Agisoft Metashape, Pix4D, DJI Terra
+   - Softwares: Agisoft Metashape,Webodm
    - Geração de ortofotos, MDS, MDT e modelos 3D
 
 4. **Aplicações e Relatórios Técnicos** (4h)

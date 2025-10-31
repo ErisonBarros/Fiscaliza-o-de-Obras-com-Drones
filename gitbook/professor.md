@@ -44,8 +44,8 @@ Como piloto certificado pela ANAC (Código IFCMEK, Classe 3), o Prof. Erison pos
 
 No Departamento de Engenharia Cartográfica da UFPE, o professor atua em:
 
-- Ensino de graduação e pós-graduação
-- Pesquisa em geotecnologias e sensoriamento remoto
+- Ensino de graduação
+- Pesquisa em geotecnologias, automação Topográfica e IA.
 - Extensão universitária e capacitação profissional
 - Orientação de trabalhos acadêmicos
 - Desenvolvimento de projetos aplicados
