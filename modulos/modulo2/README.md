@@ -3,6 +3,8 @@
 **Carga Horária:** 6 horas  
 **Tipo:** Teórico-Prático
 
+**Slide:** [slide 2](https://docs.google.com/presentation/d/1ccERPZLYMZv1oX_MvA6mEqXVF5NBP3sM/edit?usp=sharing&ouid=113254972799571802714&rtpof=true&sd=true)
+
 ## Objetivos de Aprendizagem
 
 Ao final deste módulo, o participante será capaz de:
