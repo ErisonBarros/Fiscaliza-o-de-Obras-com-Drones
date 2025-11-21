@@ -3,6 +3,7 @@
 **Carga Horária:** 6 horas  
 **Tipo:** Prático (Laboratório)
 
+**Slide:** [Slide 3](https://docs.google.com/presentation/d/1rY8DQKQcnuPMebFLKtfRe-R0qWgI86W1/edit?usp=drive_link&ouid=113254972799571802714&rtpof=true&sd=true)
 ## Objetivos de Aprendizagem
 
 Ao final deste módulo, o participante será capaz de:
