@@ -91,5 +91,5 @@ Este material está licenciado sob [MIT License](LICENSE).
 
 **Desenvolvido para:** Prefeitura de Aeronáutica de Recife (PARF)  
 **Ofício:** nº 17/SCTB/1209  
-**Protocolo COMAER:** nº 67228.001025/2025-01
+**Protocolo COMAR:** nº 67228.001025/2025-01
 
